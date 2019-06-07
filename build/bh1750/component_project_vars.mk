@@ -1,0 +1,7 @@
+# Automatically generated build file. Do not edit.
+COMPONENT_INCLUDES += 
+COMPONENT_LDFLAGS += -L$(BUILD_DIR_BASE)/bh1750 
+COMPONENT_LINKER_DEPS += 
+COMPONENT_SUBMODULES += 
+COMPONENT_LIBRARIES += bh1750
+component-bh1750-build: 
